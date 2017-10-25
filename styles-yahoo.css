@@ -28,7 +28,7 @@ svg {fill: currentColor;}
 .navbar-nav > li > a {
 	line-height: 70px;
 	font-size: 128%;
-	color: #777;
+	color: #777!important;
 }
 .navbar-nav > li > a {padding-top: 0; padding-bottom: 0; color: #777;}
 .navbar-nav > li > a:hover {
